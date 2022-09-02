@@ -149,7 +149,7 @@ footer {
     height: 100vh;
     background-image: url('./images/bg-pattern-desktop.svg');
     background-repeat: no-repeat;
-    background-size: 60%;
+    background-size: cover;
   }
 
   .image {
