@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL]()
+- Solution URL: [URL](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-DtX6a7w_f0)
 - Live Site URL: [URL](https://lisviks.github.io/base-apparel-coming-soon-frontendmentor/)
 
 ## My process
