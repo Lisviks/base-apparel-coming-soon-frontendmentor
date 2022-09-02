@@ -13,7 +13,6 @@ const validateEmail = (email) => {
 
 form.addEventListener('submit', (e) => {
   e.preventDefault();
-  const emailInputValue = emailInput.value;
   if (!validateEmail(emailInput.value)) {
     errorMsg.classList.remove('hidden');
     errorIcon.classList.remove('hidden');
